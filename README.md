@@ -2,7 +2,7 @@
 
 
 You can visit the project webpage through this link
-https://sanketdofe.github.io/IGT-project
+https://sanketdofe.github.io/geospatial_agriculture/
 
 This project was undertaken by me as an academic project work in the field of 'Geographic Information Technologies'. This project is a webmap showing the various aspects of the Agriculture in India mapped on a dynamic map.
 
@@ -17,6 +17,6 @@ Also, the agricultural data needs to be organized and structured such that even 
 To address the above issues, I decided to undertake this project. The various layers and all the processing and creation of the maps was done on 'QGIS' which is a open-source cross-platform desktop geographic information system application that supports viewing, editing, and analysis of geospatial data. Then a webmap was created using the layers exported from Qgis. 'LeafletJS' was used to build this interactive webmap along with some Html, Css and Javascript. As the data used for generating these mappings was limited, the webmap is built on a static website.
 
 
-The complete source code can be found at: https://github.com/sanketdofe/IGT-project
+The complete source code can be found at: https://sanketdofe.github.io/geospatial_agriculture/
 
 Any suggestions on improving this webmap would be highly appreciated!!
